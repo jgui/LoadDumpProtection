@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Regulator_Controller_JGUI")(type "KiCad")(uri "${KIPRJMOD}/Regulator_Controller_JGUI.kicad_sym")(options "")(descr ""))
+  (lib (name "Transistor_FET_JGUI")(type "KiCad")(uri "${KIPRJMOD}/Transistor_FET_JGUI.kicad_sym")(options "")(descr ""))
+)

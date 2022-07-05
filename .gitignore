@@ -1,5 +1,5 @@
-# For PCBs designed using KiCad: http://www.kicad-pcb.org/
-# Format documentation: http://kicad-pcb.org/help/file-formats/
+# For PCBs designed using KiCad: http://www.kicad.org/
+# Format documentation: http://kicad.org/help/file-formats/
 
 # Temporary files
 *.000
@@ -14,6 +14,7 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 
+
 # Netlist files (exported from Eeschema)
 *.net
 
@@ -24,3 +25,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# kicad 6 backups
+*-backups/

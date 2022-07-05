@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Package_SO_JGUI")(type "KiCad")(uri "${KIPRJMOD}/Package_SO_JGUI.pretty")(options "")(descr ""))
+  (lib (name "Package_DFN_QFN_JGUI")(type "KiCad")(uri "${KIPRJMOD}/Package_DFN_QFN_JGUI.pretty")(options "")(descr ""))
+)
